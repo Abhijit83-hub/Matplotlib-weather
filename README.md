@@ -1,4 +1,4 @@
-# <p align="center">SkyMeet Conference</p>
+# <p align="center">Matplotlib weather</p>
 <p align="center">SkyMeet is a free & Open Source Video/Audio Conferencing Application available on Android OS.</p>
 
 
